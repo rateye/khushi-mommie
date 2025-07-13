@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Comic Sans MS', cursive;
+  background: linear-gradient(to right, #fff0f5, #f0eaff);
+  color: #550033;
+}
+
+.hate-box {
+  max-width: 700px;
+  margin: 60px auto;
+  background: #ffffffdd;
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+h2 {
+  color: #cc007a;
+  margin-bottom: 25px;
+  font-size: 28px;
+}
+
+#hate-list {
+  text-align: left;
+  padding-left: 40px;
+  font-size: 18px;
+  line-height: 1.8;
+  list-style-position: inside;
+}
